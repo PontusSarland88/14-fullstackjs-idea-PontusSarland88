@@ -1,0 +1,35 @@
+.hero-body {
+    padding: 1rem 1.5rem;
+    background-color: #9f7e69;
+}
+
+.title {
+    margin-left: 16px;
+    margin-bottom: 0!IMPORTANT;
+}
+
+.cart-container {
+    position: relative;
+}
+
+.cart-icon {
+    font-size: 1.7em;
+    line-height: 0.75em;
+}
+
+.cart-counter {
+    font-size: 13px;
+    position: absolute;
+    text-align: center;
+    width: 22px;
+    height: 22px;
+    line-height: 20.4px;
+    font-weight: bolder;
+    top: -12.6px;
+    right: -9.6px;
+    border-radius: 12px;
+    background-color: #90C6D0;
+    color: #e5e8e9;
+    /* border: 2px solid;
+    border-color: #fbc867; */
+}
